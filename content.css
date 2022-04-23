@@ -5,11 +5,8 @@ body {
 
 .btn {
   border-radius: 50%;
-  width: 40px;
-  height: 40px;
+  width: 45px;
+  height: 45px;
   margin: 5px;
-}
-
-.riverMovie {
-  visibility: hidden;
+  float: left;
 }

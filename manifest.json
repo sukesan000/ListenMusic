@@ -5,7 +5,7 @@
   "permissions": ["tabs"],
   "action": {
     "default_icon": {
-      "16": "musicIcon.png"
+      "16": "/image/musicIcon.png"
     },
     "default_title": "playMusic",
     "default_popup": "content.html"
