@@ -1,0 +1,13 @@
+{
+  "name": "playMusic",
+  "manifest_version": 3,
+  "version": "0.1",
+  "permissions": ["tabs"],
+  "action": {
+    "default_icon": {
+      "16": "musicIcon.png"
+    },
+    "default_title": "playMusic",
+    "default_popup": "content.html"
+  }
+}

@@ -1,0 +1,15 @@
+body {
+  min-width: 110px;
+  min-height: 90px;
+}
+
+.btn {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+}
+
+.riverMovie {
+  visibility: hidden;
+}
